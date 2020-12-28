@@ -3,3 +3,4 @@ test/
 #Jupyter
 .ipynb_checkpoints
 
+*.txt
